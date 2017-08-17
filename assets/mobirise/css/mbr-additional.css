@@ -1,5 +1,5 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Pacifico:400);
-@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+@import url(../../../https://fonts.googleapis.com/css?family=Seaweed+Script:400);
+@import url(../../../https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700);
 
 
 
@@ -22,35 +22,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Pacifico', handwriting;
-  font-size: 10rem;
+  font-family: 'Seaweed Script', display;
+  font-size: 13.5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 16rem;
+  font-size: 21.6rem;
 }
 .display-2 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4rem;
+  font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2.5rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 4rem;
 }
 .display-7 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -63,14 +63,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 8rem;
-    font-size: calc( 4.1499999999999995rem + (10 - 4.1499999999999995) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (4.1499999999999995rem + (10 - 4.1499999999999995) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 10.8rem;
+    font-size: calc( 5.375rem + (13.5 - 5.375) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (5.375rem + (13.5 - 5.375) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2rem;
-    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -78,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2rem;
+    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -623,7 +623,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
