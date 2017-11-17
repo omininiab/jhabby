@@ -31,7 +31,8 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#f9f9f9"
+        "#f9f9f9",
+        "#000000"
       ]
     },
     "favicon": "",
@@ -666,7 +667,7 @@
               "color": "#ffffff"
             },
             "B": {
-              "color": "#232323"
+              "color": "#000000"
             }
           },
           "_name": "social-buttons2",
