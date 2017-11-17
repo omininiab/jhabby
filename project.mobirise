@@ -26,7 +26,7 @@
         "display7Size": "1",
         "display4Font": "Open Sans Condensed",
         "display4Size": "1",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
@@ -37,7 +37,7 @@
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "google-analytics": "<script type=\"text/javascript\" src=\"//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us14.list-manage.com\",\"uuid\":\"1c580cecde9c5f3e51ed49d24\",\"lid\":\"87bbdd4170\"}) })</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-83660717-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-83660717-3');\r\n</script>\r\n\r\n<script type=\"text/javascript\" src=\"//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us14.list-manage.com\",\"uuid\":\"1c580cecde9c5f3e51ed49d24\",\"lid\":\"87bbdd4170\"}) })</script>",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -536,31 +536,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "postToLoad": "2",
-            "facebook": "JesusHouseBC",
-            "twitter": "JesusHouseBC",
-            "google": "",
-            "youtube": "",
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-o"
         },
         {
           "_styles": {
