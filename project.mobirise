@@ -39,7 +39,7 @@
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-83660717-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-83660717-3');\r\n</script>\r\n\r\n<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/1c580cecde9c5f3e51ed49d24/d30847e2bb185aae1790d93de.js\");</script>\r\n\r\n<script type=\"text/javascript\" src=\"//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us14.list-manage.com\",\"uuid\":\"1c580cecde9c5f3e51ed49d24\",\"lid\":\"87bbdd4170\"}) })</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-83660717-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-83660717-3');\r\n</script>",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -53,9 +53,9 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Welcome to RCCG Jesus House Abbotsford (Abby).\nIf you're ever in the Fraser Valley region, please stop by and say Hi!\nWe are a church with the mission of making Heaven and taking with us as many as possible. Learn more at rccg.org",
+        "meta_descr": "Welcome to RCCG Jesus House Abbotsford (Abby). If you're ever in the Fraser Valley region, please stop by and say Hi! We are a church with the mission of making Heaven and taking with us as many as possible. RCCG is a Pentecostal Church, fouded in Lagos, Nigeria. Learn more at rccg.org",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us14.list-manage.com\",\"uuid\":\"1c580cecde9c5f3e51ed49d24\",\"lid\":\"87bbdd4170\"}) })</script>",
         "html_before": ""
       },
       "components": [
