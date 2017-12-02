@@ -1252,10 +1252,9 @@ body {
   min-height: 100vh;
 }
 .cid-qC2pCAn88C {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #767676;
-  background: linear-gradient(45deg, #767676, #ff3366);
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-color: #7f1933;
 }
 @media (min-width: 992px) {
   .cid-qC2pCAn88C .mbr-figure {
@@ -1271,6 +1270,12 @@ body {
   .cid-qC2pCAn88C .mbr-text {
     text-align: center;
   }
+}
+.cid-qC2pCAn88C H3 {
+  text-align: left;
+}
+.cid-qC2pCAn88C H1 {
+  text-align: left;
 }
 .cid-qswXSLvbY8 .navbar {
   padding: .5rem 0;
@@ -1632,7 +1637,7 @@ body {
   }
 }
 .cid-qswXSMcY7c {
-  background-image: url("../../../assets/images/bible-1080x811.jpg");
+  background-image: url("../../../assets/images/jesushouseabby.-2-1920x1080.jpg");
 }
 .cid-qswXSMcY7c H1 {
   text-align: center;
