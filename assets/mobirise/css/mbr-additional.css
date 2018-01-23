@@ -270,21 +270,21 @@ body {
 .btn-white:active {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #ffffff;
+  color: #808080;
 }
 .btn-white:hover,
 .btn-white:focus,
 .btn-white.focus,
 .btn-white.active {
-  color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  color: #808080;
+  background-color: #d9d9d9;
+  border-color: #d9d9d9;
 }
 .btn-white.disabled,
 .btn-white:disabled {
-  color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-black,
 .btn-black:active {
@@ -1691,10 +1691,51 @@ body {
 .cid-qBi8ZSSB5M .card-box {
   padding-top: 2rem;
 }
+.cid-qHAbYF2dyF {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/bible-1080x811.jpg");
+}
+.cid-qHAbYF2dyF h3 {
+  font-weight: 300;
+}
+.cid-qHAbYF2dyF .card-img {
+  width: initial;
+}
+.cid-qHAbYF2dyF .card-img .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-qHAbYF2dyF .media-container-row {
+  word-wrap: break-word;
+  padding-bottom: 2rem;
+  height: 100%;
+}
+.cid-qHAbYF2dyF .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qHAbYF2dyF .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qHAbYF2dyF .mbr-text {
+  color: #ffffff;
+}
+.cid-qHAbYF2dyF .media-container-column {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+.cid-qHAbYF2dyF .mbr-section-title B {
+  color: #ffffff;
+}
+.cid-qHAbYF2dyF .card-title {
+  color: #ffffff;
+}
 .cid-qBglP7ceGv {
   padding-top: 45px;
   padding-bottom: 15px;
-  background-color: #465052;
+  background-color: #5b686b;
 }
 .cid-qBglP7ceGv .mbr-section-subtitle {
   color: #ffffff;
@@ -1705,7 +1746,7 @@ body {
 .cid-qBglS7iL1B {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #465052;
+  background-color: #5b686b;
 }
 .cid-qBglS7iL1B .line {
   background-color: #ffffff;
@@ -1729,7 +1770,7 @@ body {
 .cid-qBglKX6b2K {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #465052;
+  background-color: #5b686b;
 }
 .cid-qBglKX6b2K h4 {
   font-weight: 500;
