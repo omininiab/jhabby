@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RCCG Jesus House Abbotsford",
-    "currentPage": "home",
+    "currentPage": "teens",
     "versionFirst": "4.0.14",
     "uniqCompNum": 56,
     "versionPublish": "4.6.4",
@@ -534,7 +534,8 @@
               "color": "#767676"
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#767676",
+              "text-align": "left"
             },
             ".card": {
               "display": "flex",
